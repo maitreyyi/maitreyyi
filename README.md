@@ -11,7 +11,7 @@
 🌱 Always learning more about distributed systems, computer vision, and backend architecture.
 
 📫 Reach me at: maitres@uci.edu  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOURHANDLE) · [Portfolio](https://YOURWEBSITE.com) *(optional)*
+🔗 [LinkedIn](https://www.linkedin.com/in/maitreyi-sinha17/) 
 
 😄 Pronouns: she/her
 
