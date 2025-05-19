@@ -1,6 +1,17 @@
-### Hi there 👋
-- 🔭 I’m currently pursuing my Bachelors in Computer Science at University of California, Irvine (UCI) and will start my Masters of Science in Computer Science (MSCS) in Sept 2025
-- 📫 How to reach me: maitres@uci.edu
-- 😄 Pronouns: she/her
+### Hi there 👋 I'm Maitreyi Sinha
 
+🎓 I'm a Computer Science student at UC Irvine, currently completing my B.S. and beginning my M.S. in Computer Science (MSCS) in Fall 2025.
+
+💻 I’m passionate about software engineering, machine learning, and building scalable systems that solve real-world problems.
+
+🚀 Currently working on:
+- Deep learning research in biomedical image segmentation using nnUNet
+- Optimizing inference pipelines and training workflows on HPC clusters
+
+🌱 Always learning more about distributed systems, computer vision, and backend architecture.
+
+📫 Reach me at: maitres@uci.edu  
+🔗 [LinkedIn](https://www.linkedin.com/in/YOURHANDLE) · [Portfolio](https://YOURWEBSITE.com) *(optional)*
+
+😄 Pronouns: she/her
 
