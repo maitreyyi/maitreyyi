@@ -11,6 +11,4 @@
 🌱 Always learning more about distributed systems, computer vision, and backend architecture.
 
 📫 Reach me at: maitres@uci.edu
-🔗 LinkedIn
 
-😄 Pronouns: she/her
