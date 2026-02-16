@@ -4,12 +4,6 @@
 
 💻 I’m passionate about software engineering, machine learning, and building scalable systems that solve real-world problems.
 
-🚀 Currently working on:
-
-1. Deep learning research in biomedical image segmentation using nnUNet
-2. Optimizing inference pipelines and training workflows on HPC clusters
-
-🌱 Always learning more about distributed systems, computer vision, and backend architecture.
 
 📫 Reach me at: maitres@uci.edu
 
